@@ -1,0 +1,63 @@
+﻿生成启动时间为 2017/7/14 3:54:38。
+项目“E:\星麦梦\北科大学习\大一下\计算机实践\FunCode教程\redfortress - 副本4号\SourceCode\VCProject2010\VCProject2010\VCProject2010.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在创建“Debug\VCProject2010.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  d:\虚拟工作室\VC2010\Visual_studio_2010_安装路径\VC\bin\CL.exe /c /I../../Header /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Src\LessonX.cpp List.cpp
+  LessonX.cpp
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(115): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\虚拟工作室\vc2010\visual_studio_2010_安装路径\vc\include\string.h(105) : 参见“strcpy”的声明
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\虚拟工作室\vc2010\visual_studio_2010_安装路径\vc\include\string.h(105) : 参见“strcpy”的声明
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(155): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\虚拟工作室\vc2010\visual_studio_2010_安装路径\vc\include\stdio.h(371) : 参见“sprintf”的声明
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\虚拟工作室\vc2010\visual_studio_2010_安装路径\vc\include\stdio.h(371) : 参见“sprintf”的声明
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(224): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\虚拟工作室\vc2010\visual_studio_2010_安装路径\vc\include\stdio.h(371) : 参见“sprintf”的声明
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(237): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(282): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(305): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\虚拟工作室\vc2010\visual_studio_2010_安装路径\vc\include\stdio.h(371) : 参见“sprintf”的声明
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(318): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(363): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(460): warning C4305: “参数”: 从“double”到“const float”截断
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(460): warning C4305: “参数”: 从“double”到“const float”截断
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(511): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(519): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(520): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(521): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(522): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(525): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(526): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(527): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(528): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(684): warning C4305: “参数”: 从“double”到“const float”截断
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(684): warning C4305: “参数”: 从“double”到“const float”截断
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(686): warning C4305: “参数”: 从“double”到“const float”截断
+e:\星麦梦\北科大学习\大一下\计算机实践\funcode教程\redfortress - 副本4号\sourcecode\src\lessonx.cpp(686): warning C4305: “参数”: 从“double”到“const float”截断
+  正在生成代码...
+  正在编译...
+  List.cpp
+  正在生成代码...
+ResourceCompile:
+  所有输出均为最新。
+Link:
+  d:\虚拟工作室\VC2010\Visual_studio_2010_安装路径\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\Bin\Game.exe" /INCREMENTAL:NO /NOLOGO Winmm.lib ..\..\Src\CommonAPI_2010.Lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"Debug\Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\Bin\Game.lib" /MACHINE:X86 Debug\VCTemplate.res
+  Debug\LessonX.obj
+  Debug\Main.obj
+  Debug\List.obj
+LessonX.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+CommonAPI_2010.Lib(CommonAPI.obj) : warning LNK4204: “E:\星麦梦\北科大学习\大一下\计算机实践\FunCode教程\redfortress - 副本4号\SourceCode\VCProject2010\VCProject2010\Debug\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+  VCProject2010.vcxproj -> E:\星麦梦\北科大学习\大一下\计算机实践\FunCode教程\redfortress - 副本4号\SourceCode\VCProject2010\VCProject2010\..\..\..\Bin\Game.exe
+CopyFilesToOutputDirectory:
+  正在将文件从“Debug\Game.pdb”复制到“..\..\..\Bin\Game.pdb”。
+FinalizeBuildStatus:
+  正在删除文件“Debug\VCProject2010.unsuccessfulbuild”。
+  正在对“Debug\VCProject2010.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\星麦梦\北科大学习\大一下\计算机实践\FunCode教程\redfortress - 副本4号\SourceCode\VCProject2010\VCProject2010\VCProject2010.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.58
